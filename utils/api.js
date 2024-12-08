@@ -111,6 +111,3 @@ export const fetchDailyLeaders = async () => {
     return [];
   }
 };
-
-
-</```rewritten_file>
